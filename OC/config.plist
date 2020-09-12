@@ -135,16 +135,18 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>AAPL,ig-platform-id</key>
+				<key>#AAPL,ig-platform-id</key>
 				<data>AAASWQ==</data>
-				<key>framebuffer-con1-enable</key>
+				<key>#framebuffer-con1-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-con1-type</key>
+				<key>#framebuffer-con1-type</key>
 				<data>AAgAAA==</data>
-				<key>framebuffer-patch-enable</key>
+				<key>#framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
-				<key>framebuffer-stolenmem</key>
+				<key>#framebuffer-stolenmem</key>
 				<data>AAAwAQ==</data>
+				<key>AAPL,ig-platform-id</key>
+				<data>AwASWQ==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
